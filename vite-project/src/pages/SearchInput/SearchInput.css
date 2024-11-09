@@ -1,0 +1,7 @@
+/* styles.css */
+.bg-image {
+  background-image: url("https://cdn.pixabay.com/photo/2022/12/17/12/34/people-7661651_1280.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
